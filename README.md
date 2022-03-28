@@ -1,3 +1,13 @@
+| | _Dom_ | _Seg_ | _Ter_ | _Qua_ | _Qui_ | _Sex_ | _Sáb_
+--- | :---: | :---: | :---: | :---: | :---: | :---: | :---:
+**hr?** | | CS170 | CS170 | | fCC | fCC | 
+**hr?** | | Melhor Inglês: aula | Melhor Inglês: aula | | Melhor Inglês: revisão | Melhor Inglês: revisão | 
+**hr?** | Natural Input | Natural Input | Natural Input | Natural Input | Natural Input | Natural Input | Natural Input
+**hr?** | | | | | | | 
+**hr?** | | | | | | | 
+**hr?** | | | | | | | 
+**hr?** | | | | | | | 
+
 ## Cronograma
 
 | | _Dom_ | _Seg_ | _Ter_ | _Qua_ | _Qui_ | _Sex_ | _Sab_
