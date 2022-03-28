@@ -2,7 +2,7 @@
 --- | :---: | :---: | :---: | :---: | :---: | :---: | :---:
 **hr?** | | CS170 | CS170 | | fCC | fCC | 
 **hr?** | | Melhor Inglês: aula | Melhor Inglês: aula | | Melhor Inglês: revisão | Melhor Inglês: revisão | 
-**hr?** | Natural Input | Natural Input | Natural Input | Natural Input | Natural Input | Natural Input | Natural Input
+**hr?** | Input | Input | Input | Input | Input | Input | Input
 **hr?** | | | | | | | 
 **hr?** | | | | | | | 
 **hr?** | | | | | | | 
